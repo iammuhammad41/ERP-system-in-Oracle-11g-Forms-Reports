@@ -24,7 +24,7 @@ This ERP system is built with Oracle Forms 11g and Reports, backed by an Oracl
 
 - `login_test.fmb` / `login_test.fmx`  
   — Login & authentication form  
-- *(Additional `.fmb` / `.fmx` modules should be added here as you develop each feature)*
+- *(Additional `.fmb` / `.fmx` modules can be added here for each feature)*
 
 
 ## 🏗️ Main Modules & Form Names
